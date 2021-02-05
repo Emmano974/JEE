@@ -1,0 +1,19 @@
+body{
+    font-family: roboto;
+}
+
+#trocc{
+    border-style: none;
+    background-color: orange;
+    padding: 10px;
+    width: 150;
+    height: 50px;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+}
+#trocc:hover{
+    border-color: orange;
+    color: orange;
+    background-color: white;
+}
